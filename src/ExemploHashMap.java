@@ -84,3 +84,8 @@ public class ExemploHashMap {
 
     }
 }
+/**
+ * TreeMap -> Chave nunca se repete
+ * Garante que as chaves estarão em ordem ascendente.
+ * Pode ser retirado do mapa por chave
+ */
